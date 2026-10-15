@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Fix Retest"
+  short_description: "Audit, correction, retests et rapports avec preuves"
+  default_prompt: "Utilise $audit-fix-retest pour auditer ce projet, corriger les erreurs, retester les parcours et produire deux rapports détaillés avec les preuves disponibles."
